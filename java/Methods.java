@@ -1,4 +1,4 @@
-public class Method {
+public class Methods {
 
     public static int x(int a, int b, int c){
         return a + b + c;
